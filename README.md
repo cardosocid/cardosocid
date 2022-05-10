@@ -22,6 +22,6 @@
   
   <a href="https://www.linkedin.com/in/cid-cardoso-70881812a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Animação de cobra](https://github.com/cardosocid/cardosocid/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cardosocid/cardosocid/blob/output/github-contribution-grid-snake.svg)
 
 </div>
